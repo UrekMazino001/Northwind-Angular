@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,  
+  urlLocal: "https://northwind-netcoreapi.azurewebsites.net/api"
 };
